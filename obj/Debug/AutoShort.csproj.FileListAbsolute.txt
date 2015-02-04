@@ -1,0 +1,14 @@
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\bin\Debug\AutoShort.exe.config
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.csprojResolveAssemblyReference.cache
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.Form1.resources
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.Properties.Resources.resources
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.csproj.GenerateResource.Cache
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\bin\Debug\AutoShort.exe
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\bin\Debug\AutoShort.pdb
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.exe
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.pdb
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\bin\Debug\Newtonsoft.Json.dll
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\bin\Debug\AutoShort.exe.manifest
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\bin\Debug\AutoShort.application
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.exe.manifest
+c:\users\tj\documents\visual studio 2013\Projects\AutoShort\AutoShort\obj\Debug\AutoShort.application
